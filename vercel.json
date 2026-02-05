@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "buildCommand": "npm run build:client && node script/build.ts",
+  "env": {
+    "NODE_ENV": "production"
+  }
+}
+
